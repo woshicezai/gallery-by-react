@@ -27,7 +27,8 @@ html, body {
     box-sizing: border-box;
     margin: 0;
     background-color: white;
-    padding: 40px; }
+    padding: 40px;
+    transition: left .6s ease-in-out,top .6s ease-in-out; }
 
   figcaption {
     text-align: center; }
